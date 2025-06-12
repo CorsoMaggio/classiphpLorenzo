@@ -1,6 +1,6 @@
 <?php
 $companyEmployees = 0;
-class Companies
+class Company
 {
     public string $name;
     public string $site;
